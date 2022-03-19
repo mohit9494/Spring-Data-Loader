@@ -1,4 +1,4 @@
-package connection;
+package com.springboot.bookfinderdataloader.connection;
 
 import java.io.File;
 
